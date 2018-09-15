@@ -1,8 +1,4 @@
 header:
-  - title:      Docs
-    url:        /docs/en/quick-start
-  - title:      文档
-    url:        /docs/zh/quick-start
   - titles:
       en:       Archive
       zh:       归档
@@ -15,5 +11,3 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
-  - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
